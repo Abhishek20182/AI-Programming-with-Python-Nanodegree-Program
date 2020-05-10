@@ -1,4 +1,4 @@
-# AI-Programming-with-Python-Nanodegree-Program
+# [AI-Programming-with-Python-Nanodegree-Program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
 Learn the essential foundations of AI: the programming tools (Python, NumPy, PyTorch), the math (calculus and linear algebra), and the key techniques of neural networks (gradient descent and backpropagation).
 
@@ -18,5 +18,5 @@ Learn the foundations of calculus to understand how to train a neural network: p
 Gain a solid foundation in the hottest fields in AI: neural networks, deep learning, and PyTorch.
 
 ## Projects:
-1.Use a Pre-trained Image Classifier to Identify Dog Breeds
-  2.Create Your Own Image Classifier
+1.Use a Pre-trained Image Classifier to Identify Dog Breeds <br/>
+2.Create Your Own Image Classifier
