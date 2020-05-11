@@ -21,4 +21,4 @@ Gain a solid foundation in the hottest fields in AI: neural networks, deep learn
 1.Use a Pre-trained Image Classifier to Identify Dog Breeds <br/>
 2.Create Your Own Image Classifier
 ## Certificate
-<img src="https://drive.google.com/uc?export=view&id=1lRalqymVkS0jkZXsH8oM9HiPkj3w2kny" style="width: 150px; max-width: 100%; height: auto .center {display: block;margin-left: auto; margin-right: auto;width: 50%;}" class="center" />
+<img src="https://drive.google.com/uc?export=view&id=1lRalqymVkS0jkZXsH8oM9HiPkj3w2kny" style="width: 150px; max-width: 100%; height: auto .center {display: block;margin-left: auto; margin-right: auto;width: 50%;}" class="center" /> 
