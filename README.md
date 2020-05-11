@@ -20,3 +20,4 @@ Gain a solid foundation in the hottest fields in AI: neural networks, deep learn
 ## Projects:
 1.Use a Pre-trained Image Classifier to Identify Dog Breeds <br/>
 2.Create Your Own Image Classifier
+<img src="https://www.linkedin.com/in/abhishek-tiwari-aa597a175/detail/treasury/education:655970400/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACmcvJ0Bkl4U9isBAH_RSJ9VUVVlbTa7Psg%2C1589127559255)&section=education%3A655970400&treasuryCount=1">
