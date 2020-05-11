@@ -20,4 +20,4 @@ Gain a solid foundation in the hottest fields in AI: neural networks, deep learn
 ## Projects:
 1.Use a Pre-trained Image Classifier to Identify Dog Breeds <br/>
 2.Create Your Own Image Classifier
-<a href="https://www.dropbox.com/s/tzhuk2g1yaiut4u/Certificate.png?dl=0"><img src="https://www.dropbox.com/s/tzhuk2g1yaiut4u/Certificate.png?dl=0"></a>
+<a href="https://www.dropbox.com/s/tzhuk2g1yaiut4u/Certificate.png?dl=0"><img src="https://drive.google.com/open?id=1lRalqymVkS0jkZXsH8oM9HiPkj3w2kny"></a>
