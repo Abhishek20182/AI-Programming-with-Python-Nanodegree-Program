@@ -1,24 +1,44 @@
-# [AI-Programming-with-Python-Nanodegree-Program](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
+<p align="center">
+  <a href="https://www.udacity.com/">
+    <img src='https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/5511/s300/udacity-logo.png' alt="Udacity logo" width = 100px>
+   </a>
+</p>
+<h3 align="center"><a href='https://www.udacity.com/course/ai-programming-python-nanodegree--nd089'> AI Programming with Python Nanodegree Program </a></h3>
+<h4 align="center">Project I: Use a Pre-trained Image Classifier to Identify Dog Breeds</h4>
+<h4 align="center">Project II: Create Your Own Image Classifier</h4>
 
-Learn the essential foundations of AI: the programming tools (Python, NumPy, PyTorch), the math (calculus and linear algebra), and the key techniques of neural networks (gradient descent and backpropagation).
+## Table of Contents
+- [Installation](#installation)
+- [Project Motivation](#motivation)
+- [Results](#results)
+- [Licensing, Authors, and Acknowledgements](#licensing)
+- [Certificate](#certi)
 
-## Introduction to Python
-Start coding with Python, drawing upon libraries and automation scripts to solve complex problems quickly.
+## Installation <a name="installation"></a>
+You need to be able to work in a Python Script and Jupyter Notebook on your computer. The following packages (libraries) need to be installed. You can install these packages via conda or pip.
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- PyTorch
+- Pillow
+- Torch-vision
 
-## Jupyter Notebooks, NumPy, Anaconda, pandas, and Matplotlib
-Learn how to use all the key tools for working with data in Python: Jupyter Notebooks, NumPy, Anaconda, pandas, and Matplotlib.
+## Project Motivation<a name="motivation"></a>
 
-## Linear Algebra Essentials
-Learn the foundational linear algebra you need for AI success: vectors, linear transformations, and matrices—as well as the linear algebra behind neural networks.
+For this project, I was interestested in using data set to idetitfy following:
+- For Dog Breeds.
+- Recognize different species of Flowers.
 
-## Calculus Essentials
-Learn the foundations of calculus to understand how to train a neural network: plotting, derivatives, the chain rule, and more. See how these mathematical skills visually come to life with a neural network example.
+## Results<a name="results"></a>
+<p align='center'>
+  <img src="https://raw.githubusercontent.com/Abhishek20182/AI-Programming-with-Python-Nanodegree-Program/master/result.png" width=300px>
+</p>
 
-## Neural Networks
-Gain a solid foundation in the hottest fields in AI: neural networks, deep learning, and PyTorch.
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Udacity for the data.You can find the Licensing for the data and other descriptive information at the Udacity Website.
 
-## Projects:
-1.Use a Pre-trained Image Classifier to Identify Dog Breeds <br/>
-2.Create Your Own Image Classifier
-## Certificate
-<img src="https://github.com/Abhishek20182/AI-Programming-with-Python-Nanodegree-Program/blob/master/Certificate.png" style="width: 150px; max-width: 100%; height: auto .center {display: block;margin-left: auto; margin-right: auto;width: 50%;}" class="center" /> 
+## Certificate<a name="certi"></a>
+<p align="center">
+  <img src="https://github.com/Abhishek20182/AI-Programming-with-Python-Nanodegree-Program/blob/master/Certificate.png" width = 800px> 
+</p>
