@@ -40,5 +40,7 @@ Must give credit to Udacity for the data.You can find the Licensing for the data
 
 ## Certificate<a name="certi"></a>
 <p align="center">
-  <img src="https://github.com/Abhishek20182/AI-Programming-with-Python-Nanodegree-Program/blob/master/Certificate.png" width = 800px> 
+  <a href="https://graduation.udacity.com/confirm/R7KCGRGR">
+  <img src="https://github.com/Abhishek20182/AI-Programming-with-Python-Nanodegree-Program/blob/master/Certificate.png" width = 700px>
+  </a>
 </p>
